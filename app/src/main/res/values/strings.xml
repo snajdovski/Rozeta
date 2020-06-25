@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Rozeta</string>
+    <string name="text">Text</string>
+    <string name="password">Key</string>
+    <string name="str_decrypt">Decrypt</string>
+    <string name="str_encrypt">Encrypt</string>
+
+
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choose_type">Choose what characters should be in password</string>
+    <string name="enter_quantity">Choose length of password</string>
+    <string name="error">Error</string>
+    <string name="invalid_password">Your password is incorrect!</string>
+    <string name="invalid_text">This is not encrypted text with this app!</string>
+    <string name="no_input">Set text for encryption or decryption!</string>
+    <string name="no_input_and_password">Set password and text for encryption or decryption!</string>
+    <string name="no_password">Enter the password!</string>
+    <string name="no_shift">Enter the shift!</string>
+    <string name="no_text">Enter the text</string>
+
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="shift">Shift</string>
+
+    <string name="str_input_text">Input text</string>
+    <string name="str_length">Length:</string>
+    <string name="str_more_apps">More apps</string>
+    <string name="str_output_text">Output text</string>
+    <string name="str_password">Password:</string>
+    <string name="str_quantity">Quantity:</string>
+    <string name="str_share">Share</string>
+    <string name="upper_case">Upper case</string>
+    <string name="lower_case">Lower case</string>
+    <string name="number">Number</string>
+    <string name="special_case">Special case</string>
+
+
+</resources>
